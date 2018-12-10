@@ -1,2 +1,5 @@
+#include <iostream>
 
-int main() {} //a joke
+int main() { //a joke
+	std::cout << "Hello World!\n";
+} 
