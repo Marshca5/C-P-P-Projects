@@ -1,5 +1,6 @@
 #include <iostream>
+using namespace std;
 
 int main() { //a joke
-	std::cout << "Hello World!\n";
+	cout << "Hello World!\n";
 } 
